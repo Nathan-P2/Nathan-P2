@@ -1,5 +1,7 @@
-<p align="center"> Olá! Meu nome é Nathan Pereira, desenvolvedor paranóico pelo propósito! </p>
-<p align="center"> Tenho 19 anos, estudo programação desde 2017 e atuo na área desde 2020. Atualmente Dev na DNC.GROUP </p>
+<p align="center" style="font-size=1.2em"> Olá! Meu nome é Nathan Pereira, desenvolvedor paranóico pelo propósito! </p>
+<p align="center" style="font-size=1.2em"> Tenho 19 anos, estudo programação desde 2017 e atuo na área desde 2020. Atualmente Dev na DNC.GROUP </p>
+
+##
 
 <div align="center">
   <a href="https://github.com/Nathan-P2">
