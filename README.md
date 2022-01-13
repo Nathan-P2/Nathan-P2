@@ -1,5 +1,5 @@
 <p align="center"> Olá! Meu nome é Nathan Pereira, desenvolvedor paranóico pelo propósito! </p>
-<p align="center"> Tenho 20 anos, estudo programação desde 2017 e atuo na área desde 2020. Atualmente Dev na <a href="https://dnc.group"> dnc.group </a> </p>
+<p align="center"> Tenho 20 anos, estudo programação desde 2017 e atuo na área desde 2017. </a> </p>
 
 ##
 
