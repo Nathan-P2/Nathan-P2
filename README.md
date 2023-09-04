@@ -1,4 +1,4 @@
-<p align="center"> Olá! Meu nome é Nathan Pereira, desenvolvedor paranóico pelo propósito! </p>
+<p align="center"> Hi, my name is Nathan. I'm a Software Engineer. </p>
 
 ##
 
